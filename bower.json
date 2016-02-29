@@ -1,13 +1,13 @@
 {
-  "name": "comp392-lesson6",
+  "name": "comp392-lesson7",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Jamie1x <jkennedy1x@gmail.com>"
   ],
-  "description": "COMP392-Lesson6 for Advanced Graphics",
+  "description": "COMP392-Lesson7 for Advanced Graphics",
   "main": "",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "https://github.com/CentennialCollege/COMP392-Lesson6",
+  "homepage": "https://github.com/Jamie1x/COMP392-Lesson7",
   "ignore": [
     "**/.*",
     "node_modules",
